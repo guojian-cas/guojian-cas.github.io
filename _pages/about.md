@@ -17,16 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# <span style="color:#04369A;"><strong>郭剑（Guo Jian）</strong> ｜1993 年 ｜中国科学院地理科学与资源研究所 · 自然灾害研究中心 ｜助理研究员<span style="color:#04369A;">
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+### 研究方向
+- 滑坡/碎屑流运动过程数值模拟与机理解析  
+- 固–流转化判据：速度剖面与震动信号等阈值特征识别  
+- 颗粒分选与侵蚀放大机制及其对规模扩展的影响  
+- 降雨与融雪触发过程、高山冰雪区复合灾害动力响应与区域尺度危险性预测  
+
+### 方法与优势
+- 深度积分/浅水方程框架的可解释模拟与多尺度建模  
+- 离散元方法（DEM）及固–流耦合模拟技术  
+- 自主开发滑坡—碎屑流动力学模拟平台（地形约束计算、侵蚀放大分析、监测数据对比验证）  
+
+### 团队与合作
+- 依托**崔鹏院士团队**开展山地灾害动力学与监测预警研究，欢迎地理学、地质工程、计算机、数学与物理背景的**本科生/硕士/博士/博士后**加入。
+
+---
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='news'></span>
+# <span style="color:#04369A;"><strong> 📖 最新动态<span style="color:#04369A;">
+- *2026.02*: 搭建个人主页与本地预览（Jekyll + LiveReload）
+- *2026.01*: 更新研究简介与内容结构（About Me）
 
-# 📝 Publications 
+
+<span class='anchor' id='publications'></span>
+# <span style="color:#04369A;"><strong>📖 论文发表<span style="color:#04369A;">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,23 +54,60 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<span class='anchor' id='patents'></span>
+# <span style="color:#04369A;"><strong>📖 专利软著<span style="color:#04369A;">
+- *2025.03* 中国科协，第十届青年人才托举工程（No. YESS20240684）
+- *2023.12* 国际灾害风险综合研究计划 “IRDR Young Scientists” 计划
+
+<span class='anchor' id='honors'></span>
+# <span style="color:#04369A;"><strong>📖 荣誉与获奖<span style="color:#04369A;">
+- *2025.03* 中国科协，第十届青年人才托举工程（No. YESS20240684）
+- *2023.12* 国际灾害风险综合研究计划 “IRDR Young Scientists” 计划
+
+<span class='anchor' id='talks'></span>
+# <span style="color:#04369A;"><strong>📖 学术报告<span style="color:#04369A;">
+- *2021.06*, Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+<span class='anchor' id='projects'></span>
+# <span style="color:#04369A;"><strong>📖 科研项目<span style="color:#04369A;">
+- *2021.06*, Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+<span class='anchor' id='edu'></span>
+# <span style="color:#04369A;"><strong>📖 教育和工作经历<span style="color:#04369A;">
+- *2025.01 - now*, 自然地理，助理研究员，中国科学院地理科学与与资源研究所，自然灾害研究中心。
+- *2022.07 - 2025.01*, 土木工程，博士后，清华大学水利系，合作导师：崔一飞 副教授 。
+- *2018.09 - 2022.06*, 岩土工程，联合培养博士，中国科学院山地灾害与环境研究所，导师：崔 鹏 院士。
+- *2018.09 - 2022.06*, 地质资源与地质工程，工学博士，长安大学，导师：崔 鹏 院士。
+- *2016.09 - 2018.06*, 地质工程（工程地质），工学硕士，长安大学，导师：李同录 教授。
+- *2012.09 - 2016.06*, 地质工程，工学学士，长安大学，导师：李同录 教授。
+
