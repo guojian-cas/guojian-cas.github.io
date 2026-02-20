@@ -133,14 +133,22 @@ Li, J., Shen, W.*, Huang, D.*, Xia, X., <span style="color:#000000;"><strong>Guo
   <li><span style="color:#000000;"><strong>郭剑</strong></span>, 李同录*, 江睿君, 李萍. <span style="color:#04369A;">2017</span>. 矿山采洞位置对边坡稳定性的影响分析, in: <span style="color:#04369A;"><em>2017年全国工程地质学术年会论文集</em></span>, pp. 333-339. <a href="https://scholar.google.com/scholar?q=矿山采洞位置对边坡稳定性的影响分析" target="_blank" rel="noopener">[原文]</a></li>
 </ol>
 
-<span class='anchor' id='patents'></span>
-# <span style="color:#04369A;"><strong>📄 专利软著<span style="color:#04369A;">
+<span class='anchor' id='patents'></span> 
+<h1 style="color:#04369A;">📄 专利与软件著作权</h1>
+<h2><strong>发明专利</strong></h2>
 <ol class="project-list">
-<li> 2026.2.10  <strong>发明专利</strong> 基于视觉识别的转鼓实验冰岩分选度自动测量方法、系统、设备及存储介质. 发明专利. 202511106021.6（实质审查）</li>
-<li> 2026.2.10  <strong>发明专利</strong> 交互式滑坡动力致灾快速模拟方法. 发明专利.（实质审查）</li>
-<li> 2026.2.10 <strong>软件著作权</strong> 滑坡、泥石流灾害事件自动监测统计分析系统V1.0. 登记号：2026SR0266459</li>
-<li> 2026.2.10 <strong>软件著作权</strong> 流动性滑坡致灾过程模拟软件[简称：FlowSim-LS]V1.0. 登记号：2026SR0266548</li>
+<li> 2026.2.10  基于视觉识别的转鼓实验冰岩分选度自动测量方法、系统、设备及存储介质. 发明专利号：202511106021.6（实质审查）</li>
+<li> 2026.2.10  交互式滑坡动力致灾快速模拟方法. （实质审查）</li>
+</ol>
+<h2><strong>实用新型专利</strong></h2>
+<ol class="project-list">
+<li> 2026.2.10  交互式滑坡动力致灾快速模拟方法. （实质审查）</li>
+</ol>
 
+<h2><strong>软件著作权</strong></h2>
+<ol class="project-list">
+<li> 2026.2.10  滑坡、泥石流灾害事件自动监测统计分析系统 V1.0. 登记号：2026SR0266459</li>
+<li> 2026.2.10 <strong>软件著作权</strong> 流动性滑坡致灾过程模拟软件（简称：FlowSim-LS）V1.0. 登记号：2026SR0266548</li>
 </ol>
 
 <span class='anchor' id='honors'></span>
