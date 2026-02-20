@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "郭剑（Guo Jian）"
-description              : "主要从事山地灾害监测、预警、动力学模拟等研究"
+description              : "guojian@igsnrr.ac.cn" # "主要从事山地灾害监测、预警、动力学模拟等研究"
 repository               : "guojian-cas/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
