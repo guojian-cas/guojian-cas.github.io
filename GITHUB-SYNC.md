@@ -1,6 +1,6 @@
 # Personal homepage deployment
 
-The root `index.html` and its assets are a static snapshot of the current personal homepage in `E:/13.website/impact-lab/guojian`, synchronized on 2026-09-28.
+The root `index.html` and its assets are a static snapshot of the current personal homepage in `E:/13.website/impact-lab/guojian`, synchronized on 2026-11-26.
 
 GitHub Pages publishes the root of `main`. `.nojekyll` preserves the deployed HTML and styling without rebuilding the older Jekyll templates. `_pages/about.md` is retained and synchronized as editable source; edits to it alone do not rebuild the published snapshot.
 
